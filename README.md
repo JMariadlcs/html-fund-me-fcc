@@ -1,4 +1,4 @@
-# html-fund-me-fcc
+# HTML FUND ME ✅
 This is a simple FrontEnd implementation of a fund-me dApp from Patrick Alpha's Free Code Camp course.
 
 In this project we are implementing a simple webpage that allows the users to interact with the Backend Smart Contracts.
@@ -6,7 +6,7 @@ In this project we are implementing a simple webpage that allows the users to in
 The workshop followed to complete this repo is [this one](https://github.com/PatrickAlphaC/html-fund-me-fcc).
 The repo that we are going to implement is like [this one](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=15996s).
 
-# Project
+## Project
 
 The project is form by 4 JavaScript files:
 
@@ -15,7 +15,7 @@ The project is form by 4 JavaScript files:
 - [index.js](https://github.com/JMariadlcs/html-fund-me-fcc/blob/main/index.js): used to define all the functions that the frontend is executing.
 - [index.html](https://github.com/JMariadlcs/html-fund-me-fcc/blob/main/index.html): html part of our webpage.
 
-# Requirements and dependencies
+## Requirements and dependencies
 
 To communicate with the backend we should install hardhat by:
 ```bash
