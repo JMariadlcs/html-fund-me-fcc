@@ -1,7 +1,7 @@
 # HTML FUND ME ✅
 This is a simple FrontEnd implementation of a fund-me dApp from Patrick Alpha's Free Code Camp course.
 
-In this project we are implementing a simple webpage that allows the users to interact with the Backend Smart Contracts.
+In this project we are implementing a simple webpage that allows the users to interact with the [Backend](https://github.com/JMariadlcs/fund-me-dapp) Smart Contracts.
 
 The workshop followed to complete this repo is [this one](https://github.com/PatrickAlphaC/html-fund-me-fcc).
 The repo that we are going to implement is like [this one](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=15996s).
